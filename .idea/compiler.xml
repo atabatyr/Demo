@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Demoex" />
         <module name="Template" />
+        <module name="Demo" />
       </profile>
     </annotationProcessing>
   </component>
